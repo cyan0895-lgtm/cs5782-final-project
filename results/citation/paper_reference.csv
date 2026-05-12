@@ -1,0 +1,10 @@
+Dataset,Model,Test Acc (%)
+Cora,SGC,81.0
+Cora,GCN,81.4
+Cora,FastGCN,79.8
+Citeseer,SGC,71.9
+Citeseer,GCN,70.9
+Citeseer,FastGCN,68.8
+Pubmed,SGC,78.9
+Pubmed,GCN,79.0
+Pubmed,FastGCN,77.4

@@ -1,0 +1,20 @@
+{
+  "dataset": "R8",
+  "K": 2,
+  "seed": 42,
+  "sgc": {
+    "test_acc": 92.42,
+    "best_C": 0.1,
+    "precompute_time_s": 11.34,
+    "train_time_s": 7.131,
+    "total_time_s": 18.471,
+    "paper_acc": 97.2
+  },
+  "gcn": {
+    "test_acc": 77.34,
+    "train_time_s": 64.0,
+    "paper_acc": 97.0
+  },
+  "sgc_speedup_over_gcn": 3.5,
+  "timestamp": "2026-05-12 00:30:52"
+}

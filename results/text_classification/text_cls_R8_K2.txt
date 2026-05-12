@@ -1,0 +1,12 @@
+Dataset : R8
+K       : 2
+Seed    : 42
+Time    : 2026-05-12 00:30:52
+
+                               Ours      Paper
+SGC (precompute + LR)        92.42%   97.2%
+GCN                          77.34%   97.0%
+
+SGC speedup over GCN : 3.5x
+SGC total time       : 18.471s
+GCN train time       : 64.0s
